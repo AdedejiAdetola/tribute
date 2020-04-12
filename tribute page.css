@@ -1,0 +1,7 @@
+body{background-color: pink;
+font-style: monospace;}
+h1{text-align:center;}
+p.name{font-size:30px;}
+img.img{display: block;
+margin-right: auto;
+margin-left: auto;}
