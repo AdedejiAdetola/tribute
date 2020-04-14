@@ -1,3 +1,3 @@
 # tributepage
 Day0
-https://adedejiadetola.github.io/tribute/
+https://adedejiadetola.github.io/tribute/tributepage.html
